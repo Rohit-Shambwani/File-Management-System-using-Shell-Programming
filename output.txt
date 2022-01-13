@@ -1,0 +1,116 @@
+------------------------FILE MANAGEMENT SYSTEM------------------------
+Give a path of folder which contain some files:
+Projects
+mkdir: cannot create directory ‘Projects’: File exists
+enter 1 to List files stored along with their sizes.
+enter 2 to Create files
+enter 3 to make changes to a file
+enter 4 to Delete files
+2
+Enter Username
+ro
+enter 1 to create TEXT DOCUMENT
+enter 2 to create C Source File
+enter 3 to create JAVA FILE
+enter 4 to create web page related files
+1
+enter filename
+tyre
+hdgshsg
+tyre.txt
+Do you want to continue?
+y
+enter 1 to create TEXT DOCUMENT
+enter 2 to create C Source File
+enter 3 to create JAVA FILE
+enter 4 to create web page related files
+2
+enter filename
+you
+sgshshs
+tyre.txt  you.C
+Do you want to continue?
+n
+BACK TO MAIN MENU
+ro  satru  satz
+Do you want to continue?
+Y
+enter 1 to List files stored along with their sizes.
+enter 2 to Create files
+enter 3 to make changes to a file
+enter 4 to Delete files
+2
+Enter Username
+ro
+mkdir: cannot create directory ‘ro’: File exists
+enter 1 to create TEXT DOCUMENT
+enter 2 to create C Source File
+enter 3 to create JAVA FILE
+enter 4 to create web page related files
+3
+enter filename
+wer
+sgshdhdj
+tyre.txt  wer.java  you.C
+Do you want to continue?
+n
+BACK TO MAIN MENU
+ro  satru  satz
+Do you want to continue?
+Y
+enter 1 to List files stored along with their sizes.
+enter 2 to Create files
+enter 3 to make changes to a file
+enter 4 to Delete files
+1
+total 12
+4 ro  4 satru  4 satz
+Do you want to continue?
+Y
+enter 1 to List files stored along with their sizes.
+enter 2 to Create files
+enter 3 to make changes to a file
+enter 4 to Delete files
+3
+folder contain files
+ro  satru  satz
+Enter your username
+ro
+give the name of file you want to make changes
+wer.java
+enter 1 for read,write,execute to user group and others
+enter 2 for read and write to users and group
+enter 3 for read write and execute to only users
+2
+changes happened:-
+total 12
+-rw-rw-r-- 1 student student 8 Apr 10 10:05 tyre.txt
+-rw-rw---- 1 student student 9 Apr 10 10:06 wer.java
+-rw-rw-r-- 1 student student 8 Apr 10 10:05 you.C
+ro  satru  satz
+Do you want to continue?
+Y
+enter 1 to List files stored along with their sizes.
+enter 2 to Create files
+enter 3 to make changes to a file
+enter 4 to Delete files
+4
+files are:-
+ro  satru  satz
+Enter username
+ro
+enter no. of files you want to delete
+2
+give filename to delete
+wer.java
+file wer.java is deleted
+now files are:-
+tyre.txt  you.C
+give filename to delete
+tyre.txt
+file tyre.txt is deleted
+now files are:-
+you.C
+Do you want to continue?
+n
+
